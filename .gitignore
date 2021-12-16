@@ -1,10 +1,4 @@
 *.log
 *.ini
 *.exe
-*.log1
-*.log2
-*.DAT
-*.pol
-*.xml
-NTUSER*.*
 !debug.log
