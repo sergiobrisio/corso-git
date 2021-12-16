@@ -1,4 +1,8 @@
+# Directory to be ingored
+temp
+# Files to be ignored
 *.log
 *.ini
 *.exe
+# Exception
 !debug.log
